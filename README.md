@@ -1,2 +1,2 @@
-Escape The Dungeon,
+# Escape The Dungeon
 You wake up trapped in a dungeon with only one goal: get out alive. It’s not just about finding the exit, though—you’ll have to stay sharp every step of the way. The place is full of danger, and one wrong move can be your last. As you push forward, you’ll learn when to be patient, when to take risks, and how to survive long enough to escape. The dungeon doesn’t care if you’re ready, but if you are, you just might make it out.
